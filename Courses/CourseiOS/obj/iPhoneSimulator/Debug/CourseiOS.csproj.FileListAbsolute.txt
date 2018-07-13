@@ -1,0 +1,12 @@
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\bin\iPhoneSimulator\Debug\CourseiOS.exe
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\bin\iPhoneSimulator\Debug\CourseiOS.pdb
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\CourseiOS.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\CourseiOS.exe
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\CourseiOS.pdb
+C:\Users\Jack\Documents\GitHub\Xamarin-Cross-Platform\Courses\CourseiOS\obj\iPhoneSimulator\Debug\CourseiOS.csprojAssemblyReference.cache
